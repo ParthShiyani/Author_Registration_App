@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92388045323",
+    "project_id": "author-registration-app-e42bb",
+    "storage_bucket": "author-registration-app-e42bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92388045323:android:052f9eb41f99c90daa4d0e",
+        "android_client_info": {
+          "package_name": "com.parth.author_registration_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92388045323-rjs69gc2of7igmk5iq38iq3e71uubd6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA-Z0a3N-stBNWSfDP4tvUzBT4DQUHDQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92388045323-rjs69gc2of7igmk5iq38iq3e71uubd6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
